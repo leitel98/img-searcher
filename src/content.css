@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    background-color: rgb(218, 205, 205);
+    justify-content: center;
+}
+
+.center {
+    column-count: 3;
+    width: 1200px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
